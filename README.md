@@ -1,4 +1,4 @@
-"How To Play?"
+How To Play?
 ============
  Don't hit the asteroids
 
